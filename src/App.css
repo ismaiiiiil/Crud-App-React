@@ -1,0 +1,15 @@
+body{
+  background: #d4d4d4;
+}
+
+li span{
+  display: inline-block;
+  width: 55%;
+}
+li > button:first-of-type{
+  width: 19%;
+  margin-right:1% ;
+}
+li > button:last-of-type{
+  width: 21%;
+}
